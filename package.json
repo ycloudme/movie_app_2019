@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://ycloudme.github.io/movie_app_2019/",
+  "homepage": "https://ycloudme.github.io/movie_app_2019/",
   "browserslist": {
     "production": [
       ">0.2%",
